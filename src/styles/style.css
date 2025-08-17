@@ -55,6 +55,7 @@ a {
 }
 
 .nav-a {
+  margin: 0.2rem;
   gap: 0.5rem;
   color: #d7827e;
   text-decoration: none;
@@ -80,7 +81,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+#a-tops:hover {
   color: white;
 }
 
@@ -119,12 +120,18 @@ button {
 .button-f {
   margin: 0.5rem;
   padding: 0.5rem;
+  cursor: pointer;
   background-color: #21202e;
   border: #454361 solid 0.1rem;
   border-radius: 0.3rem;
 }
 
-.button-a{
+.button-f:hover {
+  background-color: #454361;
+  color: #fffaf3;
+}
+
+.button-a {
   margin: 0.5rem;
   padding: 1rem;
 }

@@ -1,12 +1,13 @@
 <script setup>
 import Tops from './components/Tops.vue';
 import Links from './components/Links.vue';
+let link_1 = 'https://rosepinetheme.com/';
 </script>
 
 <template>
   <main>
     <header>
-      <h1>fonts-of-jct 📚</h1>
+      <h1>Fonts-Jct 📚</h1>
     </header>
     <nav>
       <ul>
@@ -24,12 +25,12 @@ import Links from './components/Links.vue';
         <br>
         guardo las que más me gustan. Desde scripts suaves hasta bold llamativas, todas tienen su lugar especial jajaja
       </p>
+      <hr>
       <strong>⤵️</strong>
     </section>
-    <hr>
     <Tops id="tops" />
     <hr>
-    <section>
+    <section class="section-f">
       <h3 id="recien">Recién Descubiertas 🧷</h3>
       <p>
         🌟 Lo Más Nuevo - Mi sección de fuentes recién llegadas, las que todavía huelen a nuevo y me tienen con
