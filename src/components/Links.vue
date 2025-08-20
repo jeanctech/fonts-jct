@@ -23,9 +23,10 @@ import Logo_Three from '../assets/logos/logo_three.vue';
         <br>
         <img src="../assets/logos/logo_two.png" alt="logo-google-fonts" width="120" height="100">
         <br>
-        <button><a id="a-tops" href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer">Ver Web            ⏩</a></button>
+        <button><a id="a-tops" href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer">Ver Web
+            ⏩</a></button>
       </div>
-                <div class="div-row">
+      <div class="div-row">
         <strong>Font.Download</strong>
         <br>
         <Logo_Three></Logo_Three>

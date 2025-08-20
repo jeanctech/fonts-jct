@@ -1,7 +1,6 @@
 <script setup>
 import Tops from './components/Tops.vue';
 import Links from './components/Links.vue';
-let link_1 = 'https://rosepinetheme.com/';
 </script>
 
 <template>
@@ -25,9 +24,8 @@ let link_1 = 'https://rosepinetheme.com/';
         <br>
         guardo las que más me gustan. Desde scripts suaves hasta bold llamativas, todas tienen su lugar especial jajaja
       </p>
-      <hr>
-      <strong>⤵️</strong>
     </section>
+    <hr>
     <Tops id="tops" />
     <hr>
     <section class="section-f">
@@ -91,9 +89,4 @@ let link_1 = 'https://rosepinetheme.com/';
   </main>
 </template>
 
-<style scoped>
-* {
-  padding: 0rem;
-  box-sizing: border-box;
-}
-</style>
+<style scoped></style>

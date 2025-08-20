@@ -33,7 +33,6 @@
             ➡️</a></button>
       </div>
     </div>
-    <br>
     <div class="div-container">
       <div class="div-row">
         <p><strong>Kalam</strong></p>

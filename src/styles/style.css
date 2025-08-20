@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 3em;
   line-height: 1.1;
 }
 
@@ -35,8 +35,8 @@ hr {
 }
 
 header {
-  margin: 0.5rem;
-  padding: 0.5rem;
+  margin: 0.3rem;
+  padding: 0.3rem;
   flex-direction: row;
   align-items: center;
   justify-content: center;
@@ -46,8 +46,8 @@ nav,
 ul,
 ol,
 a {
-  margin: 0.2rem;
-  padding: 0.2rem;
+  margin: 0.1rem;
+  padding: 0.1rem;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -55,8 +55,8 @@ a {
 }
 
 .nav-a {
-  margin: 0.2rem;
-  gap: 0.5rem;
+  margin: 0.3rem;
+  gap: 0.3rem;
   color: #d7827e;
   text-decoration: none;
   border: #44415a solid 0.1rem;
@@ -86,8 +86,8 @@ a {
 }
 
 .div-container {
-  margin: 0.5rem;
-  gap: 0.5rem;
+  margin: 0.3rem;
+  gap: 0.3rem;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -118,8 +118,8 @@ button {
 }
 
 .button-f {
-  margin: 0.5rem;
-  padding: 0.5rem;
+  margin: 0.2rem;
+  padding: 0rem;
   cursor: pointer;
   background-color: #21202e;
   border: #454361 solid 0.1rem;
@@ -132,13 +132,14 @@ button {
 }
 
 .button-a {
-  margin: 0.5rem;
-  padding: 1rem;
+  margin: 0.4rem;
+  padding: 0.2rem;
+  padding-top: 0.2rem;
 }
 
 section {
-  margin: 0.5rem;
-  padding: 0.5rem;
+  margin: 0.4rem;
+  padding: 0.4rem;
   flex-direction: column;
   align-items: center;
   justify-content: center;
